@@ -1,0 +1,26 @@
+h1 
+{color: red;
+} 
+
+b{
+    color: teal;
+}
+
+h2{color :palevioletred;}
+b {
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: rgb(9, 18, 20);}
+b    {
+        border: 1px solid black;
+        background-color: rgb(9, 18, 20);
+        padding-top: 5px;
+        padding-right: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+    }
+.uppercase {
+        text-transform: uppercase;
