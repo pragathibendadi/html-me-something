@@ -24,3 +24,8 @@ b    {
     }
 .uppercase {
         text-transform: uppercase;
+}
+#pc {
+
+    color:blue;
+ }       
